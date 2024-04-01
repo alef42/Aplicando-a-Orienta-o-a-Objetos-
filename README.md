@@ -1,1 +1,1 @@
-# Aplicando a orientação a objetos
+# Aplicando a orientação a objetos em Python
